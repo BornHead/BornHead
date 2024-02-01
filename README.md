@@ -4,7 +4,7 @@
 
 [![YebinKim's github stats](https://github-readme-stats.vercel.app/api?username=BornHead&count_private=True&custom_title=GitHub_활용도&bg_color=#FFFF00&title_color=#FFFF00&text_color=#FFFF00)](https://github.com/anuraghazra/github-readme-stats&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={깃헙 이름(string)})](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BornHead)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BornHead&hide_progress=true)
 
 
