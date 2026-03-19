@@ -1,20 +1,30 @@
-### 땅호닝 👋
+## 이상현 | BornHead
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBornHead&count_bg=%23000000&title_bg=%2337AC95&icon=twilio.svg&icon_color=%23FF0000&title=%EB%B0%A9%EB%AC%B8%ED%95%9C%EC%82%AC%EB%9E%8C%21&edge_flat=false)](https://hits.seeyoufarm.com)
+인프라부터 백엔드, 프론트엔드, 모바일까지 전부 다루는 개발자입니다.  
+문제 해결이 빠르고, 서비스가 실제로 굴러가게 만드는 데 강합니다.
 
-### GitHub Stats
+### Tech
 
-[![YebinKim's github stats](https://github-readme-stats.vercel.app/api?username=BornHead&count_private=True&custom_title=GitHub%20활용도&bg_color=FFFF00&title_color=000000&text_color=000000)](https://github.com/anuraghazra/github-readme-stats&theme=tokyonight)
+![DevOps](https://img.shields.io/badge/DevOps-111111?style=for-the-badge&logo=githubactions&logoColor=white)
+![Backend](https://img.shields.io/badge/Backend-0F766E?style=for-the-badge&logo=dotnet&logoColor=white)
+![Frontend](https://img.shields.io/badge/Frontend-F59E0B?style=for-the-badge&logo=javascript&logoColor=black)
+![Mobile](https://img.shields.io/badge/Mobile-2563EB?style=for-the-badge&logo=flutter&logoColor=white)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BornHead&hide_progress=true&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+### About Me
 
-### 소개
+- 인프라 DevOps, 백엔드, .NET 중심
+- 웹 프론트엔드, 백엔드, 인프라, DevOps, 모바일 앱 개발 수행
+- 2015년 1월부터 실무 개발
+- 게임 개발자 출신
 
-- **전문 분야**: 인프라 DevOps, 백엔드, .NET
-- **현재 하는업무**: 웹 프론트엔드, 백엔드, 인프라, DevOps, 모바일앱개발
-- 
-- **근무 기간**: 2015년 1월 ~ 현재
-- **게임 개발자 출신**
-- **개변태 개발자**
+### Focus
 
----
+- 운영 가능한 서비스 만들기
+- 자동화와 배포 최적화
+- 백엔드와 인프라 구조 개선
+- 앱과 웹을 함께 보는 풀스택 개발
+
+### Contact
+
+- Blog: https://officialsite.kr
+- GitHub: https://github.com/BornHead
